@@ -1,0 +1,10 @@
+com\mycompany\sisliga\People\Card.class
+com\mycompany\sisliga\People\Assistence.class
+com\mycompany\sisliga\Game\Game.class
+com\mycompany\sisliga\People\Player.class
+com\mycompany\sisliga\Teams\Team.class
+com\mycompany\sisliga\People\Goal.class
+com\mycompany\sisliga\People\Manager.class
+com\mycompany\sisliga\SisLiga.class
+com\mycompany\sisliga\Teams\ChangeManager.class
+com\mycompany\sisliga\People\Person.class
